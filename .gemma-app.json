@@ -1,0 +1,7 @@
+{
+  "name": "SpendWise",
+  "description": "A polished, dark-themed mobile expense tracker with category summaries and local storage persistence.",
+  "model": "google/gemma-4-31b-it",
+  "prompt": "Build me a polished mobile-first personal expense tracker. Users should be able to add expenses with an amount, category, description, and date, edit expenses, delete expenses, and filter expenses by category. Show total spending and a simple spending summary by category. Persist all expenses in localStorage. Use a dark modern interface optimized for phone screens. Use only HTML, CSS, and plain JavaScript.",
+  "generatedAt": "2026-09-25T07:45:02.032Z"
+}
